@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-Hello there, my name is Alfredo Thomas Novanski. I'm currently an undergraduate student in Bina Nusantara University majoring in Cyber Security. I love exploring new stuff and learning more about computer science in general. 
+Hello there, my name is Alfredo Thomas Novanski. I'm currently an undergraduate student at Bina Nusantara University majoring in Cyber Security.
 
 ## My Contacts
 
